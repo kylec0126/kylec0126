@@ -3,7 +3,7 @@ Hi 👋 My name is Kyle Chan
 
 I am currently a Sophomore AMS/Economics Major at Stony Brook University. I am interested in data analysis and Engineering, with coding experience in SQL and Python.
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/kyle-chan0503/)
 * ✉️  You can contact me at [kylec0503@gmail.com](mailto:kylec0503@gmail.com)
 
